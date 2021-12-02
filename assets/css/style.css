@@ -351,5 +351,9 @@ hr {
 .carousel img{
     height: 400px;
     width: auto;
-    
+
+}
+
+.white-text {
+    color: #fff;
 }
