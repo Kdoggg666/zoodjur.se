@@ -36,7 +36,7 @@ header {
 
 /*-- Navbar --*/
 .navbar {
-    height: 150px;
+    height: 100px;
     background: rgba(0, 0, 0, 0.6) !important;
     width: 100%;
     margin: 0px 0px 50px 0px;
@@ -117,13 +117,13 @@ header {
 .page-heading {
     color: #fff;
     text-shadow: black 5px 5px;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .page-heading-icon {
     color: #fff;
     text-shadow: black 5px 5px;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 .big-bottom-margin {
@@ -144,7 +144,7 @@ header {
 
 /*-- Footer --*/
 footer {
-    height: 170px;
+    height: 140px;
     position: absolute;
     right: 0;
     bottom: 0;
